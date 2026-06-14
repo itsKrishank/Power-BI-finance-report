@@ -22,4 +22,4 @@ Data Modeling and Transformation
 Financial Data Analysis
 Business Reporting and Visualization
 Author
-Krishank Kumar
+By Krishank Kumar
